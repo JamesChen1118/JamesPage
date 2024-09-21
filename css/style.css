@@ -1,0 +1,47 @@
+@import url('reset.css');
+
+.body{
+    background-image:url('./images/bg.jpg.jpg');
+}
+
+.container{
+    width: 1280px;
+    height: 720px;
+    border: 5px solid rgb(131, 124, 124);
+    border-radius: 30px;
+    margin: 80px auto;
+    display: grid;
+    
+    
+}
+
+.box{
+    /* border: 5px solid rgb(131, 124, 124); */
+
+}
+
+
+.box1{
+
+}
+.box2{
+
+}
+.box3{
+
+}
+.box4{
+
+}
+.box5{
+
+}
+.box6{
+
+}
+.box7{
+
+}
+.box8{
+
+}
